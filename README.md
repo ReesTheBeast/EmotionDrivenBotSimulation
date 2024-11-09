@@ -15,7 +15,7 @@ No additional libraries are required as the code utilizes Python's standard libr
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/advanced-emotion-bot.git
+git clone https://github.com/ReesTheBeast/EmotionDrivenBotSimulation.git
 cd advanced-emotion-bot
 Ensure you have Python 3 installed. You can verify this with:
 
