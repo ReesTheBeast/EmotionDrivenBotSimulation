@@ -51,18 +51,16 @@ Users can check the status of any bot during the simulation and observe its emot
 ## Installation
 
 ### 1. Clone the repository:
-```bash
+
 git clone https://github.com/ReesTheBeast/EmotionDrivenBotSimulation.git
 cd advanced-emotion-bot
 2. Ensure you have Python 3 installed:
 You can verify this with:
 
-bash
-Copy code
+
 python --version
 3. Run the simulation:
-bash
-Copy code
+
 python main.py
 Usage
 1. Start the simulation:
@@ -78,8 +76,7 @@ Commands
 Check status: Type the name of a bot to check its status.
 Exit simulation: Type exit to stop the simulation.
 Example:
-yaml
-Copy code
+
 Enter a bot name to check status or 'exit' to stop: Bot_1
 Bot_1 Emotional State -> Happiness: 0.55, Sadness: 0.47, Anger: 0.40, Fear: 0.45, Surprise: 0.53, Disgust: 0.35
 In love with Bot_2, Partnered with Bot_3.
